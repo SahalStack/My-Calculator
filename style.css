@@ -73,7 +73,7 @@
   #id,
   #screen {
     width: 90%;
-    margin: 20px 24px;
+    margin: 20px 14px;
   }
 
   .btn {
@@ -97,6 +97,7 @@
     width: 95%;
     height: auto;
     padding-bottom: 20px;
+    
   }
 
   .btn {
@@ -117,5 +118,8 @@
   #screen {
     width: 90%;
     margin: 20px 10px;
+    box-shadow: 3px 2px 5px 3px;
+    pointer-events: none;
+    display: block;
   }
 }
