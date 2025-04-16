@@ -11,4 +11,4 @@ A beginner-level calculator built using **HTML**, **CSS**, and **JavaScript**. T
 
 - **HTML**: Structure and layout of the calculator
 - **CSS**: Styling and making the app responsive
-- **JavaScript**: Implementing the logic for calculations
+- **JavaScript**: Implementing the logic for calculations.
